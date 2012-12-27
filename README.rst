@@ -7,5 +7,5 @@ For the server-side API, see django-teleport_.
 
 It watches for filesystem changes using the amazing library called watchdog_.
 
-.. django-teleport_: https://github.com/dash1291/django-teleport
-.. watchdog_: https://github.com/gorakhargosh/watchdog
+.. _django-teleport: https://github.com/dash1291/django-teleport
+.. _watchdog: https://github.com/gorakhargosh/watchdog
